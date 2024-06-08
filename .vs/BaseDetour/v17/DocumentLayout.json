@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|solutionrelative:BaseDetour\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\dllmain.cpp",
+              "RelativeDocumentMoniker": "BaseDetour\\dllmain.cpp",
+              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\dllmain.cpp",
+              "RelativeToolTip": "BaseDetour\\dllmain.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-08T09:34:51.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
