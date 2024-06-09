@@ -2,12 +2,18 @@
 
 namespace Abilities
 {
+
+    static __forceinline uintptr_t BaseAddress()
+    {
+        return reinterpret_cast<uintptr_t>(GetModuleHandle(0));
+    }
+
     FGameplayAbilitySpecHandle(*GiveAbility)(UAbilitySystemComponent*, FGameplayAbilitySpecHandle*, FGameplayAbilitySpec);
     UObject* (*CreateDefaultObject)(UClass*);
     static __int64 (*specthing)(void*, void*, char, int, void*) = decltype(specthing)(BaseAddress() + 0xB9AF40);
 
-	static void GameAbility(APlayerPawn_Athena_C* TargetPawn, UClass* GameplayAbilityClass) // static sert pour enregistrer la fonction
-	{
+    static void GameAbility(APlayerPawn_Athena_C* TargetPawn, UClass* GameplayAbilityClass) // static sert pour enregistrer la fonction
+    {
         auto AbilitySystemComponent = TargetPawn->AbilitySystemComponent;
 
         if (!AbilitySystemComponent)
@@ -33,7 +39,7 @@ namespace Abilities
         }
 
         GiveAbility(AbilitySystemComponent, &Spec.Handle, Spec);
-	}
+    }
 
     FGameplayAbilitySpec* FindAbilitySpecFromHandle(UAbilitySystemComponent* AbilitySystem, FGameplayAbilitySpecHandle Handle)
     {

@@ -46,7 +46,7 @@ namespace Hooks
 
 	static bool InternalTryActivateAbility()
 	{
-		return;
+		return false;
 	}
 
 	void ProcessEventHook(UObject* Object, UFunction* Function, void* Parms)
@@ -64,7 +64,7 @@ namespace Hooks
 		{
 			if (GetAsyncKeyState(VK_F7) & 0x1)
 			{
-				HLog("F7 Truc bidule");
+				FNLog("F7");
 				bLogs = bLogs ? false : true;
 			}
 		}
@@ -79,7 +79,7 @@ namespace Hooks
 				/*(bool*)GIsClient() = false;
 				*(bool*)GIsServer() = true;*/
 
-				HLog("letrucmarche c'est l'essentiel");
+				FNLog("PreStartMatch");
 				/*AFortPlayerController* PlayerController = (AFortPlayerController*)Globals::GetServerPlayerController();
 				UFortCheatManager* CheatManager = (UFortCheatManager*)PlayerController->CheatManager;
 
@@ -93,11 +93,11 @@ namespace Hooks
 					CheatManager->DestroyAll(APlayerController::StaticClass());*/
 
 				bPreReadyToStartMatch = true;
-				HLog("kiwi magique marche ici");
+				FNLog("ReadyToStartMatch (gg Yuteeyy)");
 			}
 			else if (bPreReadyToStartMatch && bWorldReady)
 			{
-				HLog("Préparation du Match en cours !");
+				FNLog("Préparation du Match en cours !");
 				AFortGameModeAthena* GameMode = Globals::GetGameMode();
 				AFortGameStateAthena* GameState = Globals::GetGameState();
 
@@ -105,7 +105,7 @@ namespace Hooks
 				if (GameMode->NumPlayers + GameMode->NumBots > 0 &&
 				MatchState.ToString() == "WaitingToStart")
 				{
-					HLog("MatchState" << MatchState.ToString())
+					FNLog("MatchState" << MatchState.ToString())
 					FName inprogress = Globals::GetStringLibrary()->Conv_StringToName(L"InProgress"); // Transformation d'un string en FName pour ensuite modif la MatchState
 					UFortPlaylistAthena* Playlist = UObject::FindObjectSlow<UFortPlaylistAthena>("FortPlaylistAthena Playlist_DefaultSolo.Playlist_DefaultSolo"); // Choix de la playlist
 					GameState->CurrentPlaylistData = Playlist; // Set la playlist
@@ -119,7 +119,7 @@ namespace Hooks
 
 					GameMode->StartPlay(); // jsp faut le mettre
 					GameMode->StartMatch(); // Start la Game
-					HLog("Heliato est de sorti !"); // "nique ta mere va te faire foutre" sa réponse à la log UwU
+					FNLog("Heliato est de sorti !"); // "nique ta mere va te faire foutre" sa réponse à la log UwU
 				}
 			}
 
@@ -129,9 +129,9 @@ namespace Hooks
 		{
 			if (!bWorldReady && bPreReadyToStartMatch)
 			{
-				HLog("popo comme disent les ptits enfants dans ma cave");
+				FNLog("popo comme disent les ptits enfants dans ma cave");
 				Beacon::Listen(); // Listen = function
-				HLog("je rigole salope laisse moi 2 secondes que j'ecris sa jvais te les mettres t'es ; salope");
+				FNLog("je rigole salope laisse moi 2 secondes que j'ecris sa jvais te les mettres t'es ; salope");
 
 				bWorldReady = true;
 			}
@@ -454,7 +454,7 @@ namespace Hooks
 				!FunctionName.contains("Handle Parachute Audio State") &&
 				!FunctionName.contains("EvaluateGraphExposedInputs_ExecuteUbergraph_Fortnite_M_Avg_Player_AnimBlueprint_AnimGraphNode_"))
 			{
-				HLog("FuncName: " << Function->GetName());
+				FNLog("FuncName: " << Function->GetName());
 			}
 		}
 
@@ -473,6 +473,6 @@ namespace Hooks
 
 		END_DETOUR;
 
-		HLog("InitDetour Success !");
+		FNLog("InitDetour Success !");
 	}
 }

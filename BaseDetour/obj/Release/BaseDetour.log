@@ -1,26 +1,17 @@
-﻿  dllmain.cpp
-C:\Users\mixpa\Desktop\BaseDetourProject-main\BaseDetour\SDK\Basic.hpp(270,7): warning C4099: 'SDK::FName' : nom de type déjà rencontré avec 'struct' et utilisant maintenant 'class'
-  (compiler le fichier source 'dllmain.cpp')
-  C:\Users\mixpa\Desktop\BaseDetourProject-main\BaseDetour\SDK\Basic.hpp(270,7):
-  voir la déclaration de 'SDK::FName'
-  
-C:\Users\mixpa\Desktop\BaseDetourProject-main\BaseDetour\SDK\Basic.hpp(717,2): warning C4369: 'SDK::EClassFlags::NewerVersionExists' : la valeur de l'énumérateur '2147483648' ne peut pas être représentée sous la forme 'int', la valeur est '2147483648'
-  (compiler le fichier source 'dllmain.cpp')
-  
-C:\Users\mixpa\Desktop\BaseDetourProject-main\BaseDetour\SDK\CoreUObject_structs.hpp(329,31): warning C4244: 'return' : conversion de 'double' en 'SDK::FVector::UnderlayingType', perte possible de données
-  (compiler le fichier source 'dllmain.cpp')
-  
-C:\Users\mixpa\Desktop\BaseDetourProject-main\BaseDetour\SDK\HeadMountedDisplay_structs.hpp(27,2): warning C4309: 'initialisation' : troncation de valeur de constante
-  (compiler le fichier source 'dllmain.cpp')
-  
-C:\Users\mixpa\Desktop\BaseDetourProject-main\BaseDetour\SDK\HeadMountedDisplay_structs.hpp(27,2): warning C4369: 'SDK::EXRTrackedDeviceType::EXRTrackedDeviceType_MAX' : la valeur de l'énumérateur '256' ne peut pas être représentée sous la forme 'unsigned char', la valeur est '256'
-  (compiler le fichier source 'dllmain.cpp')
-  
-C:\Users\mixpa\Desktop\BaseDetourProject-main\BaseDetour\Abilities.h(7,87): error C3861: 'BaseAddress' : identificateur introuvable
-  (compiler le fichier source 'dllmain.cpp')
-  
-C:\Users\mixpa\Desktop\BaseDetourProject-main\BaseDetour\Hooks.h(49,3): error C2561: 'Hooks::InternalTryActivateAbility' : la fonction doit retourner une valeur
-  (compiler le fichier source 'dllmain.cpp')
-  C:\Users\mixpa\Desktop\BaseDetourProject-main\BaseDetour\Hooks.h(47,14):
-  voir la déclaration de 'Hooks::InternalTryActivateAbility'
-  
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Le répertoire intermédiaire (obj\Release\) contient des fichiers partagés provenant d'un autre projet (BaseDetour.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  dllmain.cpp
+C:\Users\samwa\Documents\GitHub\GS-GalaxiaFN-3.5\BaseDetour\SDK\Basic.hpp(270,7): warning C4099: 'SDK::FName' : nom de type déjà rencontré avec 'struct' et utilisant maintenant 'class'
+C:\Users\samwa\Documents\GitHub\GS-GalaxiaFN-3.5\BaseDetour\SDK\Basic.hpp(717,2): warning C4369: 'SDK::EClassFlags::NewerVersionExists' : la valeur de l'énumérateur '2147483648' ne peut pas être représentée sous la forme 'int', la valeur est '2147483648'
+C:\Users\samwa\Documents\GitHub\GS-GalaxiaFN-3.5\BaseDetour\SDK\CoreUObject_structs.hpp(329,31): warning C4244: 'return' : conversion de 'double' en 'SDK::FVector::UnderlayingType', perte possible de données
+C:\Users\samwa\Documents\GitHub\GS-GalaxiaFN-3.5\BaseDetour\SDK\HeadMountedDisplay_structs.hpp(27,2): warning C4309: 'initialisation' : troncation de valeur de constante
+C:\Users\samwa\Documents\GitHub\GS-GalaxiaFN-3.5\BaseDetour\SDK\HeadMountedDisplay_structs.hpp(27,2): warning C4369: 'SDK::EXRTrackedDeviceType::EXRTrackedDeviceType_MAX' : la valeur de l'énumérateur '256' ne peut pas être représentée sous la forme 'unsigned char', la valeur est '256'
+C:\Users\samwa\Documents\GitHub\GS-GalaxiaFN-3.5\BaseDetour\Util.h(153,31): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\samwa\Documents\GitHub\GS-GalaxiaFN-3.5\BaseDetour\Util.h(154,32): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\samwa\Documents\GitHub\GS-GalaxiaFN-3.5\BaseDetour\Util.h(155,31): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\samwa\Documents\GitHub\GS-GalaxiaFN-3.5\BaseDetour\Util.h(156,31): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  Génération de code en cours
+  3 of 420 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  BaseDetour.vcxproj -> C:\Users\samwa\Documents\GitHub\GS-GalaxiaFN-3.5\BaseDetour\bin\Release\GS-GalaxiaFN-3.5.dll

@@ -34207,7 +34207,8 @@ void UCheatManager::EnableDebugCamera()
 }
 
 
-// Function Engine.CheatManager.FlushLog
+// Function Engine.CheatManager.Flus
+// 
 // (Exec, Native, Public)
 
 void UCheatManager::FlushLog()

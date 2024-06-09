@@ -7,7 +7,7 @@
 #include <vector>
 #include <winnt.h>
 
-#define HLog(string) std::cout << "LOG : " << string << std::endl;
+#define FNLog(string) std::cout << "LOG : " << string << std::endl;
 
 
 #define START_DETOUR         \
@@ -37,17 +37,17 @@ bool CheckAllPattern()
 {
     if (nb == 0)
     {
-        HLog("All patterns found!");
+        FNLog("All patterns found!");
         return true;
     }
     if (nb == 1)
     {
-        HLog("1 pattern not found!");
+        FNLog("1 pattern not found!");
         return false;
     }
     if (nb > 1)
     {
-        HLog(nb << "Patterns not found!")
+        FNLog(nb << "Patterns not found!")
             return false;
     }
     return false;
@@ -69,10 +69,7 @@ public:
         freopen_s(&fDummy, "CONOUT$", "w", stdout);
     }
 
-    static __forceinline uintptr_t BaseAddress()
-    {
-        return reinterpret_cast<uintptr_t>(GetModuleHandle(0));
-    }
+   
 
     static __forceinline uintptr_t FindPattern(const char* signature, bool bRelative = false, uint32_t offset = 0)
     {

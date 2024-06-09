@@ -16,6 +16,14 @@
 
 DWORD WINAPI MainThread(LPVOID)
 {
+    FILE* fDummy;
+    AllocConsole();
+    freopen_s(&fDummy, "CONIN$", "r", stdin);
+    freopen_s(&fDummy, "CONOUT$", "w", stderr);
+    freopen_s(&fDummy, "CONOUT$", "w", stdout);
+
+    //MH_Initialize();
+    SetConsoleTitleA("3.5 Galaxia");
     Util::InitConsole(); // initialisation de la console grâce à la fonction 'InitConsole' de la classe 'Util'
 
     if (Init::InitializeAll()) // on regarde si tout s'initialise grace à la fonction 'InitializeALL' de la classe Init et si c'est bon ça lance le code
@@ -24,23 +32,15 @@ DWORD WINAPI MainThread(LPVOID)
         UGameplayStatics* GameplayStatics = Globals::GetGameplayStatics();
         APlayerController* PlayerController = Globals::GetServerPlayerController();
 
-        /*s// je créee une variable de type int qui a pour nom lagrossedaronnedeheliato qui est = a 180kilo
+        //FString oui = L"cestfaux"; // L = char -> transforme le string en char car yuteeyy ne comprend pas les strings (le FString) (waslyl: en faite Yuteeyy t'es débile)
 
-        int poids_grosse_daronne_heliato = 180;
+        //oui = L"débile de yuteeyy"; // on peut mettre le Const et le & que si on change pas la variable pour rendre plus beau et utiliser moins de truc
 
-        // crée une variable de type de type std::string pour nom heliatodehors
-
-        /*std::string larabeheliatodehors = "c'est vrai heliato à faux cette arabe ^^";
-
-        FString oui = L"cestfaux"; // L = char -> transforme le string en char car ce fdp ne comprend pas les strings (le FString)
-
-        oui = L"tg"; // on peut mettre le Const et le & que si on change pas la variable pour rendre plus beau et utiliser moins de truc
-
-        FName non = Globals::GetStringLibrary()->Conv_StringToName(L"FuckNigger"); // 
-        HLog("non" << non.ToString()); // c'est une fonction
+        //FName non = Globals::GetStringLibrary()->Conv_StringToName(L"FuckNigger"); // ca non
+        //FNLog("non" << non.ToString()); // c'est une fonction
 
         UWorld* Prout = Globals::GetWorld(); 
-        auto NetDriver = Prout->NetDriver;*/
+        auto NetDriver = Prout->NetDriver;
 
         if (FortEngine && GameplayStatics && PlayerController)
         {
@@ -50,16 +50,17 @@ DWORD WINAPI MainThread(LPVOID)
             {
                 FortEngine->GameViewport->ViewportConsole = NewConsole;
                 PlayerController->SwitchLevel(L"Athena_Terrain");
+                //PlayerController->SwitchLevel(L"Athena_Faceoff"); // rappelle c'est map de test
             }
         }
         Hooks::InitDetour();
 
-        HLog("GObjects->Num() :" << UObject::GObjects->Num())
-        HLog("Init Success !")
+        FNLog("GObjects->Num() :" << UObject::GObjects->Num())
+            FNLog("Init Success !")
     }
     else
     {
-        HLog("Init Failed !")
+        FNLog("Init Failed !")
     }
 
     return 0;

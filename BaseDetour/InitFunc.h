@@ -53,7 +53,8 @@ namespace Init
 
 		if (CheckAllPattern())
 		{
-			HLog("All Patterns found !");
+			
+			("All Patterns found !");
 
 			//Declypte func here//
 

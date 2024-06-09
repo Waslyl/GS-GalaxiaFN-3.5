@@ -16,7 +16,7 @@
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>BaseDetour</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>BaseDetour</ProjectName>
+    <ProjectName>GS-GalaxiaFN-3.5</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
@@ -117,6 +117,7 @@
     <ClInclude Include="Globals.h" />
     <ClInclude Include="Hooks.h" />
     <ClInclude Include="InitFunc.h" />
+    <ClInclude Include="Inventory.h" />
     <ClInclude Include="SDK.hpp" />
     <ClInclude Include="util.h" />
   </ItemGroup>
