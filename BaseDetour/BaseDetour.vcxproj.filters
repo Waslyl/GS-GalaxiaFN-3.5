@@ -2,7 +2,6 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="dllmain.cpp" />
-    <ClCompile Include="SDK\Basic.cpp" />
     <ClCompile Include="SDK\CoreUObject_functions.cpp">
       <Filter>SDK</Filter>
     </ClCompile>
@@ -13,6 +12,9 @@
       <Filter>SDK</Filter>
     </ClCompile>
     <ClCompile Include="SDK\GameplayAbilities_functions.cpp">
+      <Filter>SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\Basic.cpp">
       <Filter>SDK</Filter>
     </ClCompile>
   </ItemGroup>
@@ -35,6 +37,11 @@
       <Filter>Headers</Filter>
     </ClInclude>
     <ClInclude Include="Inventory.h">
+      <Filter>Headers\Functions</Filter>
+    </ClInclude>
+    <ClInclude Include="Patterns.h" />
+    <ClInclude Include="MinHook.h" />
+    <ClInclude Include="Loots.h">
       <Filter>Headers\Functions</Filter>
     </ClInclude>
   </ItemGroup>

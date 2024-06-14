@@ -118,6 +118,9 @@
     <ClInclude Include="Hooks.h" />
     <ClInclude Include="InitFunc.h" />
     <ClInclude Include="Inventory.h" />
+    <ClInclude Include="Loots.h" />
+    <ClInclude Include="MinHook.h" />
+    <ClInclude Include="Patterns.h" />
     <ClInclude Include="SDK.hpp" />
     <ClInclude Include="util.h" />
   </ItemGroup>

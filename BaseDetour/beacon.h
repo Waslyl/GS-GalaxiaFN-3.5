@@ -9,6 +9,8 @@ namespace Beacon
 	void (*TickFlush)(UNetDriver* NetDriver, float DeltaSeconds);
 	int32 (*ServerReplicateActors)(UReplicationGraph* ReplicationGraph, float DeltaSeconds);
 
+	AOnlineBeaconHost* Beacon = nullptr;
+
 	void TickFlushHook(UNetDriver* NetDriver, float DeltaSeconds)
 	{
 		if (NetDriver->ClientConnections.Num() > 0 && NetDriver->ClientConnections[0]->InternalAck == false) // FORCER COMME LES NOIRS
@@ -29,6 +31,7 @@ namespace Beacon
 
 		if (!Beacon || !World)
 		{
+			FNLog(Beacon, Error, "Failed TO create Beacon or to get World!")
 			return;
 		}
 
@@ -36,16 +39,18 @@ namespace Beacon
 
 		if (World->NetDriver)
 		{ 
+			FNLog(Beacon, Warning, "Beacon already created!");
 			return;
 		}
 
 		if (InitHost(Beacon))
 		{
 			World->NetDriver = Beacon->NetDriver;
-
+			FNLog(Beacon, Log, "Beacon created successful!");
 		}
 		else
 		{
+			FNLog(Beacon, Error, "Failed to InitHost!");
 			return;
 		}
 
@@ -63,6 +68,9 @@ namespace Beacon
 
 			World->LevelCollections[0].NetDriver = World->NetDriver;
 			World->LevelCollections[1].NetDriver = World->NetDriver;
+
+			FNLog(Beacon, Log, "Beacon listen on port %i", URL.Port);
+
 
 			START_DETOUR;
 
