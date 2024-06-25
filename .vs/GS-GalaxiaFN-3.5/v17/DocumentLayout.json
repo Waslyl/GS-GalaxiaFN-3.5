@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|solutionrelative:BaseDetour\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Abilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|solutionrelative:BaseDetour\\Abilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|C:\\USERS\\SAMWA\\DOCUMENTS\\GITHUB\\GS-GALAXIAFN-3.5\\BASEDETOUR\\SDK\\FORTNITEGAME_CLASSES.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|solutionrelative:BASEDETOUR\\SDK\\FORTNITEGAME_CLASSES.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|solutionrelative:BaseDetour\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Loots.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -19,16 +19,12 @@
       "RelativeMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|solutionrelative:BaseDetour\\Globals.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|solutionrelative:BaseDetour\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|solutionrelative:BaseDetour\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\beacon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|solutionrelative:BaseDetour\\beacon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Patterns.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|solutionrelative:BaseDetour\\Patterns.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|solutionrelative:BaseDetour\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,15 +42,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Loots.h",
-              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Loots.h",
-              "RelativeDocumentMoniker": "BaseDetour\\Loots.h",
-              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Loots.h",
-              "RelativeToolTip": "BaseDetour\\Loots.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "DocumentIndex": 0,
+              "Title": "Abilities.h",
+              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Abilities.h",
+              "RelativeDocumentMoniker": "BaseDetour\\Abilities.h",
+              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Abilities.h",
+              "RelativeToolTip": "BaseDetour\\Abilities.h",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAcwGcAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-11T18:06:31.205Z",
+              "WhenOpened": "2024-06-25T14:14:15.768Z",
               "EditorCaption": ""
             },
             {
@@ -65,73 +61,62 @@
               "RelativeDocumentMoniker": "BaseDetour\\Globals.h",
               "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Globals.h",
               "RelativeToolTip": "BaseDetour\\Globals.h",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAAAHwAAAABAAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAHEAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-11T17:51:12.365Z",
+              "WhenOpened": "2024-06-25T14:10:20.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FortniteGame_classes.hpp",
-              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\SDK\\FortniteGame_classes.hpp",
-              "RelativeDocumentMoniker": "BaseDetour\\SDK\\FortniteGame_classes.hpp",
-              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\SDK\\FortniteGame_classes.hpp",
-              "RelativeToolTip": "BaseDetour\\SDK\\FortniteGame_classes.hpp",
-              "ViewState": "AQIAAKMcAAAAAAAAAAAMwLkcAAAUAAAA",
+              "DocumentIndex": 2,
+              "Title": "Loots.h",
+              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Loots.h",
+              "RelativeDocumentMoniker": "BaseDetour\\Loots.h",
+              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Loots.h",
+              "RelativeToolTip": "BaseDetour\\Loots.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-11T17:41:24.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Inventory.h",
-              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Inventory.h",
-              "RelativeDocumentMoniker": "BaseDetour\\Inventory.h",
-              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Inventory.h",
-              "RelativeToolTip": "BaseDetour\\Inventory.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-11T17:35:03.56Z",
+              "WhenOpened": "2024-06-25T14:05:24.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "util.h",
-              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\util.h",
-              "RelativeDocumentMoniker": "BaseDetour\\util.h",
-              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\util.h",
-              "RelativeToolTip": "BaseDetour\\util.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-09T08:34:25.988Z",
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\dllmain.cpp",
+              "RelativeDocumentMoniker": "BaseDetour\\dllmain.cpp",
+              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\dllmain.cpp",
+              "RelativeToolTip": "BaseDetour\\dllmain.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T13:27:27.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "beacon.h",
-              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\beacon.h",
-              "RelativeDocumentMoniker": "BaseDetour\\beacon.h",
-              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\beacon.h",
-              "RelativeToolTip": "BaseDetour\\beacon.h",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Functions.h",
+              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Functions.h",
+              "RelativeDocumentMoniker": "BaseDetour\\Functions.h",
+              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Functions.h",
+              "RelativeToolTip": "BaseDetour\\Functions.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-09T12:31:12.928Z"
+              "WhenOpened": "2024-06-25T13:27:14.175Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Patterns.h",
-              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Patterns.h",
-              "RelativeDocumentMoniker": "BaseDetour\\Patterns.h",
-              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Patterns.h",
-              "RelativeToolTip": "BaseDetour\\Patterns.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABKAAAA",
+              "DocumentIndex": 1,
+              "Title": "Inventory.h",
+              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Inventory.h",
+              "RelativeDocumentMoniker": "BaseDetour\\Inventory.h",
+              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Inventory.h",
+              "RelativeToolTip": "BaseDetour\\Inventory.h",
+              "ViewState": "AQIAACIBAAAAAAAAAAAcwC0BAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-09T11:29:37.487Z"
+              "WhenOpened": "2024-06-11T17:35:03.56Z",
+              "EditorCaption": ""
             }
           ]
         }

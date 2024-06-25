@@ -12,7 +12,9 @@
 #include "beacon.h"
 #include "Hooks.h"
 #include "InitFunc.h"
-
+#include "Inventory.h"
+#include "Functions.h"
+#include "Loots.h"
 
 DWORD WINAPI MainThread(LPVOID)
 {

@@ -114,6 +114,7 @@
   <ItemGroup>
     <ClInclude Include="Abilities.h" />
     <ClInclude Include="beacon.h" />
+    <ClInclude Include="Functions.h" />
     <ClInclude Include="Globals.h" />
     <ClInclude Include="Hooks.h" />
     <ClInclude Include="InitFunc.h" />

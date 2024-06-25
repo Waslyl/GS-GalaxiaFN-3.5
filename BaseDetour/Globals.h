@@ -92,6 +92,26 @@ namespace Globals
 		return nullptr;
 	}
 
+	template <typename T>
+	static T* GetDataTableRowFromName(UDataTable* DataTable, FName RowName)
+	{
+		if (!DataTable)
+			return nullptr;
+
+		auto& RowMap = DataTable->GetRowMap();
+
+		for (int i = 0; i < RowMap.Elements.Elements.Num(); ++i)
+		{
+			auto& Pair = RowMap.Elements.Elements.Data[i].ElementData.Value;
+
+			if (Pair.Key() != RowName)
+				continue;
+
+			return (T*)Pair.Value();
+		}
+
+		return nullptr;
+	}
 
 	UKismetMathLibrary* GetMathLibrary()
 	{
