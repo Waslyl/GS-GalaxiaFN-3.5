@@ -1,0 +1,44 @@
+﻿  dllmain.cpp
+C:\Users\samwa\Documents\GitHub\GS-GalaxiaFN-3.5\GS-GalaxiaFN-3.5\SDK\Basic.hpp(270,7): warning C4099: 'SDK::FName' : nom de type déjà rencontré avec 'struct' et utilisant maintenant 'class'
+  (compiler le fichier source 'dllmain.cpp')
+      C:\Users\samwa\Documents\GitHub\GS-GalaxiaFN-3.5\GS-GalaxiaFN-3.5\SDK\Basic.hpp(270,7):
+      voir la déclaration de 'SDK::FName'
+  
+C:\Users\samwa\Documents\GitHub\GS-GalaxiaFN-3.5\GS-GalaxiaFN-3.5\SDK\Basic.hpp(717,2): warning C4369: 'SDK::EClassFlags::NewerVersionExists' : la valeur de l'énumérateur '2147483648' ne peut pas être représentée sous la forme 'int', la valeur est '2147483648'
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\samwa\Documents\GitHub\GS-GalaxiaFN-3.5\GS-GalaxiaFN-3.5\SDK\CoreUObject_structs.hpp(329,31): warning C4244: 'return' : conversion de 'double' en 'SDK::FVector::UnderlayingType', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\samwa\Documents\GitHub\GS-GalaxiaFN-3.5\GS-GalaxiaFN-3.5\SDK\HeadMountedDisplay_structs.hpp(27,2): warning C4309: 'initialisation' : troncation de valeur de constante
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\samwa\Documents\GitHub\GS-GalaxiaFN-3.5\GS-GalaxiaFN-3.5\SDK\HeadMountedDisplay_structs.hpp(27,2): warning C4369: 'SDK::EXRTrackedDeviceType::EXRTrackedDeviceType_MAX' : la valeur de l'énumérateur '256' ne peut pas être représentée sous la forme 'unsigned char', la valeur est '256'
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\samwa\Documents\GitHub\GS-GalaxiaFN-3.5\GS-GalaxiaFN-3.5\Util.h(151,31): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+      C:\Users\samwa\Documents\GitHub\GS-GalaxiaFN-3.5\GS-GalaxiaFN-3.5\Util.h(151,31):
+      le contexte d’instanciation du modèle (le plus ancien) est
+          C:\Users\samwa\Documents\GitHub\GS-GalaxiaFN-3.5\GS-GalaxiaFN-3.5\Util.h(167,50):
+          voir la référence à l'instanciation de la fonction modèle 'ActorType *Util::SpawnActor<SDK::APlayerPawn_Athena_C>(SDK::UClass *,SDK::FVector,SDK::FRotator,SDK::FVector)' en cours de compilation
+          with
+          [
+              ActorType=SDK::APlayerPawn_Athena_C
+          ]
+  
+C:\Users\samwa\Documents\GitHub\GS-GalaxiaFN-3.5\GS-GalaxiaFN-3.5\Util.h(152,32): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\samwa\Documents\GitHub\GS-GalaxiaFN-3.5\GS-GalaxiaFN-3.5\Util.h(153,31): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\samwa\Documents\GitHub\GS-GalaxiaFN-3.5\GS-GalaxiaFN-3.5\Util.h(154,31): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+  Génération de code en cours
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+C:\Users\samwa\Documents\GitHub\GS-GalaxiaFN-3.5\GS-GalaxiaFN-3.5\Globals.h(48): warning C4715: 'Globals::GetLocalPlayers' : les chemins de contrôle ne retournent pas tous une valeur
+  All 416 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  BaseDetour.vcxproj -> C:\Users\samwa\Documents\GitHub\GS-GalaxiaFN-3.5\GS-GalaxiaFN-3.5\bin\Release\BaseDetour.dll

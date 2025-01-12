@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Abilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|solutionrelative:BaseDetour\\Abilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|GS-GalaxiaFN-3.5\\BaseDetour.vcxproj|C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\GS-GalaxiaFN-3.5\\Abilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|GS-GalaxiaFN-3.5\\BaseDetour.vcxproj|solutionrelative:GS-GalaxiaFN-3.5\\Abilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|solutionrelative:BaseDetour\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|GS-GalaxiaFN-3.5\\BaseDetour.vcxproj|C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\GS-GalaxiaFN-3.5\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|GS-GalaxiaFN-3.5\\BaseDetour.vcxproj|solutionrelative:GS-GalaxiaFN-3.5\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Loots.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|solutionrelative:BaseDetour\\Loots.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|GS-GalaxiaFN-3.5\\BaseDetour.vcxproj|C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\GS-GalaxiaFN-3.5\\Hooks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|GS-GalaxiaFN-3.5\\BaseDetour.vcxproj|solutionrelative:GS-GalaxiaFN-3.5\\Hooks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Globals.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|solutionrelative:BaseDetour\\Globals.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|solutionrelative:BaseDetour\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|BaseDetour\\BaseDetour.vcxproj|solutionrelative:BaseDetour\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|GS-GalaxiaFN-3.5\\BaseDetour.vcxproj|C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\GS-GalaxiaFN-3.5\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|GS-GalaxiaFN-3.5\\BaseDetour.vcxproj|solutionrelative:GS-GalaxiaFN-3.5\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,80 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Abilities.h",
-              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Abilities.h",
-              "RelativeDocumentMoniker": "BaseDetour\\Abilities.h",
-              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Abilities.h",
-              "RelativeToolTip": "BaseDetour\\Abilities.h",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAcwGcAAAAkAAAA",
+              "DocumentIndex": 2,
+              "Title": "Hooks.h",
+              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\GS-GalaxiaFN-3.5\\Hooks.h",
+              "RelativeDocumentMoniker": "GS-GalaxiaFN-3.5\\Hooks.h",
+              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\GS-GalaxiaFN-3.5\\Hooks.h",
+              "RelativeToolTip": "GS-GalaxiaFN-3.5\\Hooks.h",
+              "ViewState": "AgIAABQAAAAAAAAAAADgvysAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-25T14:14:15.768Z",
+              "WhenOpened": "2025-01-12T08:52:10.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Globals.h",
-              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Globals.h",
-              "RelativeDocumentMoniker": "BaseDetour\\Globals.h",
-              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Globals.h",
-              "RelativeToolTip": "BaseDetour\\Globals.h",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAAAHEAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-25T14:10:20.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Loots.h",
-              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Loots.h",
-              "RelativeDocumentMoniker": "BaseDetour\\Loots.h",
-              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Loots.h",
-              "RelativeToolTip": "BaseDetour\\Loots.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-25T14:05:24.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "dllmain.cpp",
-              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\dllmain.cpp",
-              "RelativeDocumentMoniker": "BaseDetour\\dllmain.cpp",
-              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\dllmain.cpp",
-              "RelativeToolTip": "BaseDetour\\dllmain.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\GS-GalaxiaFN-3.5\\dllmain.cpp",
+              "RelativeDocumentMoniker": "GS-GalaxiaFN-3.5\\dllmain.cpp",
+              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\GS-GalaxiaFN-3.5\\dllmain.cpp",
+              "RelativeToolTip": "GS-GalaxiaFN-3.5\\dllmain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-25T13:27:27.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Functions.h",
-              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Functions.h",
-              "RelativeDocumentMoniker": "BaseDetour\\Functions.h",
-              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Functions.h",
-              "RelativeToolTip": "BaseDetour\\Functions.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-25T13:27:14.175Z",
+              "WhenOpened": "2025-01-12T08:52:05.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Inventory.h",
-              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Inventory.h",
-              "RelativeDocumentMoniker": "BaseDetour\\Inventory.h",
-              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\BaseDetour\\Inventory.h",
-              "RelativeToolTip": "BaseDetour\\Inventory.h",
-              "ViewState": "AQIAACIBAAAAAAAAAAAcwC0BAAAJAAAA",
+              "Title": "util.h",
+              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\GS-GalaxiaFN-3.5\\util.h",
+              "RelativeDocumentMoniker": "GS-GalaxiaFN-3.5\\util.h",
+              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\GS-GalaxiaFN-3.5\\util.h",
+              "RelativeToolTip": "GS-GalaxiaFN-3.5\\util.h",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwEUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-11T17:35:03.56Z",
+              "WhenOpened": "2025-01-12T08:51:28.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Abilities.h",
+              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\GS-GalaxiaFN-3.5\\Abilities.h",
+              "RelativeDocumentMoniker": "GS-GalaxiaFN-3.5\\Abilities.h",
+              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\GS-GalaxiaFN-3.5\\Abilities.h",
+              "RelativeToolTip": "GS-GalaxiaFN-3.5\\Abilities.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-12T08:51:16.111Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|GS-GalaxiaFN-3.5\\BaseDetour.vcxproj|C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\GS-GalaxiaFN-3.5\\Abilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|GS-GalaxiaFN-3.5\\BaseDetour.vcxproj|solutionrelative:GS-GalaxiaFN-3.5\\Abilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|GS-GalaxiaFN-3.5\\BaseDetour.vcxproj|C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\GS-GalaxiaFN-3.5\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|GS-GalaxiaFN-3.5\\BaseDetour.vcxproj|solutionrelative:GS-GalaxiaFN-3.5\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|GS-GalaxiaFN-3.5\\BaseDetour.vcxproj|C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\GS-GalaxiaFN-3.5\\Hooks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|GS-GalaxiaFN-3.5\\BaseDetour.vcxproj|solutionrelative:GS-GalaxiaFN-3.5\\Hooks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|GS-GalaxiaFN-3.5\\BaseDetour.vcxproj|C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\GS-GalaxiaFN-3.5\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681F9315-7563-43DC-A2AB-0C4122002E2F}|GS-GalaxiaFN-3.5\\BaseDetour.vcxproj|solutionrelative:GS-GalaxiaFN-3.5\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hooks.h",
+              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\GS-GalaxiaFN-3.5\\Hooks.h",
+              "RelativeDocumentMoniker": "GS-GalaxiaFN-3.5\\Hooks.h",
+              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\GS-GalaxiaFN-3.5\\Hooks.h",
+              "RelativeToolTip": "GS-GalaxiaFN-3.5\\Hooks.h",
+              "ViewState": "AgIAABQAAAAAAAAAAADgvysAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-12T08:52:10.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\GS-GalaxiaFN-3.5\\dllmain.cpp",
+              "RelativeDocumentMoniker": "GS-GalaxiaFN-3.5\\dllmain.cpp",
+              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\GS-GalaxiaFN-3.5\\dllmain.cpp",
+              "RelativeToolTip": "GS-GalaxiaFN-3.5\\dllmain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T08:52:05.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "util.h",
+              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\GS-GalaxiaFN-3.5\\util.h",
+              "RelativeDocumentMoniker": "GS-GalaxiaFN-3.5\\util.h",
+              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\GS-GalaxiaFN-3.5\\util.h",
+              "RelativeToolTip": "GS-GalaxiaFN-3.5\\util.h",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-12T08:51:28.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Abilities.h",
+              "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\GS-GalaxiaFN-3.5\\Abilities.h",
+              "RelativeDocumentMoniker": "GS-GalaxiaFN-3.5\\Abilities.h",
+              "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\GS-GalaxiaFN-3.5\\GS-GalaxiaFN-3.5\\Abilities.h",
+              "RelativeToolTip": "GS-GalaxiaFN-3.5\\Abilities.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-12T08:51:16.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
